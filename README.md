@@ -1,9 +1,12 @@
-# TranslateTool
-一个翻译工具(其实就是把GoogleTranslate包装了一下:-) ).
-用pyqt实现发现体积(95.1MB)，启动速度（10s左右），占用内存(120MB左右)，效果不太理想。
-于是重新用electron实现，效果好很多。
-目前打包后exe体积：99.2MB
-启动速度：3s左右
+TranslateTool
+---
+
+GoogleTranslate
+翻译工具(包装了GoogleTranslate的网页:-) )。  
+最初使用pyqt实现，发现体积(95.1MB)，启动速度（10s左右），占用内存(120MB左右)，效果不太理想。  
+于是重新用electron实现，效果好很多。  
+目前打包后exe体积：99.2MB  
+启动速度：3s左右  
 占用内存：94MB左右
 
 TODO：
